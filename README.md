@@ -104,3 +104,4 @@ FreeCryptoAPI читается постранично по месяцам и в�
 python -m tg_rewriter.main --start 2024-01-01 --end 2024-01-31
 python -m tg_rewriter.main --start 2024-02-01 --end 2024-02-29
 ```
+# editor
